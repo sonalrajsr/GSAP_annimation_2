@@ -5,4 +5,4 @@ This can be a landing page for a Hotel.
 ## Tech Stack
 HTML, CSS, JAVA SCRIPT, GSAP
 ## Link of working website
-https://sonalrajsr.github.io/GSAP_annimation_2/
+https://sonalrajsr.github.io/web_annimation_2/
